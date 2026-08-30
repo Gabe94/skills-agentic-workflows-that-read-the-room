@@ -11,6 +11,7 @@ network:
   allowed:
     - github.blog
     - github.com
+    - awesome-copilot.github.com
 tools:
   github:
     mode: gh-proxy
@@ -31,6 +32,7 @@ Use `web-fetch` to read these official public sources:
 
 - https://github.blog/latest/
 - https://github.blog/changelog/
+- https://awesome-copilot.github.com/workflows/
 
 Select recent, developer-relevant updates that fit Mona's editorial guidance. Update `site/content/github-info.md` with concise, practical summaries and an explicit source for each GitHub Blog or Changelog item.
 
