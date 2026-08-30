@@ -16,6 +16,7 @@ tools:
     mode: gh-proxy
     toolsets: [repos]
   edit: true
+  web-fetch:
 safe-outputs:
   create-pull-request:
     allowed-files:
